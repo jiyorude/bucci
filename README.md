@@ -1,2 +1,6 @@
-# bucci
-Flask-based ACNH island showcase 
+### Bucci
+
+Flask-based ACNH Island Showcase
+
+
+
