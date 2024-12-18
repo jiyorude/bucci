@@ -1,0 +1,25 @@
+/* BOX RESET */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* FONTS */
+@font-face {
+    font-family: Nunito-Light;
+    src: url('/src/fonts/Nunito-Light.ttf');
+    font-weight:100;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: Nunito-LightItalic;
+    src: url();
+}
+
+
+/* VARS */
+:root {
+    --main-color: rgb(245, 245, 245);
+}
